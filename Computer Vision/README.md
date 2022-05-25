@@ -9,7 +9,7 @@ To implement the techniques learnt in Computer Vision.
 We are provided with a datasetof images of plant seedlings at various stages of grown. Each image has a filename that is its unique id. The dataset comprises 12 plant species. The goal of the project is to create a classifier capable of determining a plant's species from a photo
 
 ### Data Dictionary
-The dataset can be download from Olympus.
+The dataset can be download from [Google Drive](https://drive.google.com/drive/folders/17h_FCrpOVaJFUbRwcxWa1QtWC-Z2pJcp?usp=sharing).
 
 The data file names are:
 
